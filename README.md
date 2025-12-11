@@ -2,8 +2,6 @@
 Senior Software Engineer • Full-Stack & Systems Architecture  
 AI-Assisted Engineering • Real-Time Dashboards • Distributed Systems
 
-<a href="https://ym-apps.live" target="_blank" rel="noopener noreferrer">🌐 ym-apps.live</a>
-
 [🌐 ym-apps.live](https://ym-apps.live)  
 [🔗 LinkedIn](https://www.linkedin.com/in/yogeshmoradiya/)  
 📧 moradiyayogeshg@gmail.com  
