@@ -1,4 +1,4 @@
-# Hi — I'm Yogesh 👋  
+# Hi There... 👋  
 Senior Software Engineer • Full-Stack & Systems Architecture  
 AI-Assisted Engineering • Real-Time Dashboards • Distributed Systems
 
