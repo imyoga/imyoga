@@ -1,36 +1,76 @@
-# Hi — I’m Yoga 👋 (imyoga)
+# Hi — I'm Yogesh 👋  
+Senior Software Engineer • Full-Stack & Systems Architecture  
+AI-Assisted Engineering • Real-Time Dashboards • Distributed Systems
 
-Senior Software Engineer • Full-stack (Frontend + Backend)  
-JS | TypeScript | React | Node.js | Python | Vite | Docker
-
-[🌐 ym-apps.live](https://ym-apps.live) • [GitHub](https://github.com/imyoga) • [LinkedIn](https://www.linkedin.com/in/your-linkedin) • email@you.com
-
----
-
-### What I build
-I design and ship fast, privacy-focused browser tools and lightweight web apps. My flagship collection **Everyday Tools** runs fully in the browser — no signups, no tracking, just utilities that work. :contentReference[oaicite:3]{index=3}
-
-### Highlights
-- 🔧 Creator of **Everyday Tools** (50+ in-browser utilities) — live demo: https://ym-apps.live. :contentReference[oaicite:4]{index=4}  
-- 🧩 Chrome extension: **youtube-clean-fullscreen** — distraction-free fullscreen experience. :contentReference[oaicite:5]{index=5}
-- 🧪 Comfortable across product lifecycle: concept → frontend → backend → infra → CI/CD.
-
-### Tech stack
-`React` `Vite` `TypeScript` `Node.js` `Express` `Python` `Docker` `GitHub Actions` `Cloudflare` `HTML` `CSS`
+[🌐 ym-apps.live](https://ym-apps.live)  
+[🔗 LinkedIn](https://www.linkedin.com/in/yogeshmoradiya/)  
+📧 moradiyayogeshg@gmail.com  
 
 ---
 
-### Featured projects
-- **Everyday Tools** — fast, privacy-first web utilities. Demo: https://ym-apps.live. :contentReference[oaicite:6]{index=6}  
-- **youtube-clean-fullscreen** — Chrome extension that hides YouTube UI in fullscreen. :contentReference[oaicite:7]{index=7}  
-- *(add 2–3 more pinned repos here — name + one-line + demo link)*
+### 🚀 About Me
+I’m a Senior Software Engineer with 7+ years of experience building **scalable full-stack systems**, **real-time applications**, and **microservice architectures**.  
+
+I work end-to-end across:
+- 🧠 **Architecture & system design**  
+- 🎨 **Frontend engineering (React, TS, UI/UX)**  
+- 🛠 **Backend & APIs (Node.js, Python, distributed workflows)**  
+- 📡 **Real-time data systems** using WebSocket, MQTT, TCP, Modbus  
+- 🐳 **Docker-based microservices & cloud deployments**  
+
+I use **AI-assisted workflows** to accelerate development: faster prototyping, cleaner code, automated testing, documentation, and performance improvements.
+
+I enjoy building systems that are:
+**fast, reliable, observable, scalable, and developer-friendly.**
 
 ---
 
-### If you want to collaborate / hire me
-Email: `email@you.com` · LinkedIn: `your-linkedin-url`  
-Open to contract / product work and mentoring senior frontend teams.
+### 🧰 Tech Expertise
+**Frontend:** React, TypeScript, JavaScript, Vite, Redux, D3/Charts, UI/UX Engineering  
+**Backend:** Node.js, Express, Python, FastAPI, Microservices  
+**Platforms:** Docker, Cloudflare, Azure, Linux, CI/CD, GitHub Actions  
+**Data:** PostgreSQL, InfluxDB, Time-Series Data, ETL pipelines  
+**Protocols:** HTTP, WebSocket, MQTT, TCP/IP, Modbus, REST  
+**Other Strengths:** AI-assisted engineering, architecture, observability, performance tuning, real-time systems
 
 ---
 
-*Pro tip:* Pin repositories that match the “Featured projects” section, and add a screenshot/GIF to each of those repos.
+### 🌟 Highlights & What I’m Good At
+- Designing **scalable, event-driven architectures** for real-time dashboards and control systems  
+- Building **low-latency streaming UIs** that visualize complex metrics and time-series data  
+- Developing **microservices** that ingest, parse, forecast, and analyze large data flows  
+- Integrating multi-protocol IoT/edge systems (WebSocket, TCP, MQTT, Modbus etc.)  
+- Creating **developer tooling and automation** to improve engineering productivity  
+- Owning products end-to-end: idea → architecture → code → deployment → monitoring  
+- Leading and mentoring on **clean code, testing, patterns, and engineering practices**
+
+---
+
+### 🛠 Featured Projects
+
+#### 🌐 **Everyday Tools**  
+Fast, privacy-friendly utilities built with modern web technologies.  
+No signups, no tracking — everything runs in the browser.  
+**Live:** https://ym-apps.live  
+
+#### 📺 **YouTube Clean Fullscreen (Chrome Extension)**  
+Distraction-free fullscreen mode with a minimalist UI.  
+Clean, simple, open-source.
+
+#### 🧩 **Developer Tools & Utilities**  
+A growing set of scripts, experiments, and microtools in JS & Python.  
+
+*(Pin your top repos for best visibility.)*
+
+---
+
+### 📬 Let’s Connect  
+I'm always interested in **modern engineering, AI-assisted development, high-performance systems, and impactful frontend/backend projects.**
+
+📧 **moradiyayogeshg@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/yogeshmoradiya/  
+
+---
+
+### 🙌 Thanks for visiting!  
+Feel free to explore my projects or reach out if you'd like to collaborate.
