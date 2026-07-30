@@ -9,7 +9,7 @@ AI-Assisted Engineering • Real-Time Dashboards • Distributed Systems
 ---
 
 ### 🚀 About Me
-I’m a Senior Software Engineer with 7+ years of experience building **scalable full-stack systems**, **real-time applications**, and **microservice architectures**.  
+I’m a Senior Software Engineer with 8+ years of experience building **scalable full-stack systems**, **real-time applications**, and **microservice architectures**.  
 
 I work end-to-end across:
 - 🧠 **Architecture & system design**  
